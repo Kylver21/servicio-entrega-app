@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombre": "Audífonos Bluetooth",
+    "descripcion": "Audífonos con cancelación de ruido.",
+    "precio": 89.99,
+    "imagenUrl": "assets/images/audifonos.jpg",
+    "categoria": "Electrónica",
+    "destacado": true,
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "nombre": "Botella Térmica",
+    "descripcion": "Mantiene la temperatura por 12 horas.",
+    "precio": 19.99,
+    "imagenUrl": "assets/images/botella.jpg",
+    "categoria": "Hogar",
+    "destacado": true,
+    "stock": 40
+  }
+]
